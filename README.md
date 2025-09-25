@@ -134,4 +134,4 @@ This repository contains the merged catalog of lens, source, and microlensing ma
 
 ```python
 import pandas as pd
-df = pd.read_csv("merged_catalog.csv")
+df = pd.read_csv("table_result_microlensing_timscales_and_probabilities.csv")
